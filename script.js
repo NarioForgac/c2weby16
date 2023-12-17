@@ -12,5 +12,6 @@ function showTextContent() {
 
 }
 
+
 showInnerText();
 //showTextContent();
